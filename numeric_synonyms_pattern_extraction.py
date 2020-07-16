@@ -1,4 +1,4 @@
-""" Pattern Extraction -> Cluster - BoW """
+""" Pattern Extraction -> Cluster - Bag of Words """
 import re
 
 def pre_process_input(string_input):
